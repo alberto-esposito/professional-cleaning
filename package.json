@@ -8,6 +8,6 @@
   "license": "AGPL",
   "private": false,
   "scripts": {
-    "toc": ""
+    "toc": "./gh-md-toc --insert README.md"
   }
 }
