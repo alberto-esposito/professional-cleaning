@@ -1,0 +1,13 @@
+{
+  "name": "professional-cleaning",
+  "version": "0.0.1",
+  "description": "Professional cleaning tools and tips",
+  "main": "index.js",
+  "repository": "git@github.com:alberto-esposito/professional-cleaning.git",
+  "author": "alberto-esposito <alberto.websci@gmail.com>",
+  "license": "AGPL",
+  "private": false,
+  "scripts": {
+    "toc": ""
+  }
+}
